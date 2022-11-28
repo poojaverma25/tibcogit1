@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:Course xmlns:ns0="http://www.tibco.com/schemas/2.ParseRenderXML/Resources/Schemas/Models/Course">
+    <ns0:id>1</ns0:id>
+    <ns0:author>E Balagurusamy</ns0:author>
+    <ns0:title>Programming with JAVA</ns0:title>
+    <ns0:genre>Programming</ns0:genre>
+    <ns0:price>516</ns0:price>
+    <ns0:publishDate>1995-05-23</ns0:publishDate>
+</ns0:Course>

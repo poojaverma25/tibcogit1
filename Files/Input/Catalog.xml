@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Catalog xmlns = "http://www.tibco.com/schemas/2.ParseRenderXML/Resources/Schemas/Models/Catalog">
+   <Course xmlns = "http://www.tibco.com/schemas/2.ParseRenderXML/Resources/Schemas/Models/Course">
+      <id>1</id>
+      <author>E Balagurusamy</author>
+      <title>Programming with JAVA</title>
+      <genre>Programming</genre>
+      <price>516.0</price>
+      <publishDate>1995-05-23</publishDate>
+   </Course>
+   
+   <Course xmlns="http://www.tibco.com/schemas/2.ParseRenderXML/Resources/Schemas/Models/Course">
+      <id>2</id>
+      <author>Anthony Adams</author>
+      <title>Python programming for beginners</title>
+      <genre>Programming</genre>
+      <price>749.0</price>
+      <publishDate>1991-02-20</publishDate>
+   </Course>
+</Catalog>
