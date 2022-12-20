@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository:repository xmlns:Repository="http://www.tibco.com/xmlns/repo/types/2002">
+    <enterpriseArchive>
+        <sharedArchive name="Shared Archive">
+            <resourceType>shared.archive.resource</resourceType>
+            <authorProperty>pooja.verma</authorProperty>
+        </sharedArchive>
+        <processArchive name="Process Archive">
+            <resourceType>process.archive.resource</resourceType>
+            <authorProperty>pooja.verma</authorProperty>
+            <processProperty>/Processes/Orchestration/GlobalDispatcher.process</processProperty>
+        </processArchive>
+        <versionProperty>3</versionProperty>
+        <authorProperty>pooja.verma</authorProperty>
+        <addServiceSettableGvars>true</addServiceSettableGvars>
+        <name>ProcessCountries</name>
+        <designer/>
+        <fileLocationProperty>C:\Users\pooja.verma\Tibco_course\6.HTTP\EAR\ProcessCountries.ear</fileLocationProperty>
+    </enterpriseArchive>
+</Repository:repository>

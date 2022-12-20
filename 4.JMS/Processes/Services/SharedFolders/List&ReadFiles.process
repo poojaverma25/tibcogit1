@@ -143,7 +143,7 @@
             <pd:lineType>Multiple Bends</pd:lineType>
             <pd:lineColor>-16777216</pd:lineColor>
             <pd:conditionType>xpath</pd:conditionType>
-            <pd:xpath>$Read-File/ns2:ReadActivityOutputTextClass/fileContent/textContent = '2'</pd:xpath>
+            <pd:xpath>$Read-File/ns2:ReadActivityOutputTextClass/fileContent/textContent = '4'</pd:xpath>
         </pd:transition>
         <pd:transition>
             <pd:from>Read File</pd:from>

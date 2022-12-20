@@ -2,7 +2,7 @@
 
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
 	 xmlns:WriteToFileResponse="http://www.tibco.com/schemas/0.ProjectZero/Resources/Schemas/SharedProcesses/WriteToFileResponse"
-	 xmlns:Header="http://www.tibco.com/schemas/0.ProjectZero/Resources/Schemas/Commons/Header"	 
+	 xmlns:Header="http://www.tibco.com/schemas/0.ProjectZero/Resources/Schemas/Commons/Header"
 	 xmlns:Response="http://www.tibco.com/schemas/0.ProjectZero/Resources/Schemas/Commons/Response"
 	 targetNamespace="http://www.tibco.com/schemas/0.ProjectZero/Resources/Schemas/SharedProcesses/WriteToFileResponse"
 	 elementFormDefault="qualified"
